@@ -1,0 +1,27 @@
+{
+	"name": "connection kill",
+	"version": "0.1",
+	"manifest_version": 2,
+
+	"description": "通信遮断（主に広告ブロック用）",
+
+	"icons": {
+		"128": "icon/icon.png"
+	},
+	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
+		"*://*/*"
+	],
+
+	"background": {
+		"scripts": [
+			"background.js"
+		]
+	},
+		
+	"browser_action": {
+		"default_icon": "icon/icon.png",
+		"default_title": "通信遮断（主に広告ブロック用）: 遮断ホストリストを更新"
+	}
+}
