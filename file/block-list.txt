@@ -1,7 +1,0 @@
-# 「#」始まりはコメント
-adclick.g.doubleclick.net
-googleads.g.doubleclick.net
-
-tpc.googlesyndication.com
-cdn.adnxs.com
-pt.iogous.com

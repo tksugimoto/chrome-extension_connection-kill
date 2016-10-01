@@ -1,0 +1,4 @@
+# 「#」始まりはコメント
+# block-list.sample.txt → block-list.txt
+
+ads.example.com
