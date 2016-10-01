@@ -2,3 +2,6 @@
 # block-list.sample.txt → block-list.txt
 
 ads.example.com
+
+# https?://始まりなら前方一致
+http://example.com/ads
